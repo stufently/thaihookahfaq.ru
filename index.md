@@ -6,5 +6,7 @@ layout: faq
 ---
 
 
-aeiuvbfjlvbhdsikjv
-dfsgvfdbhgdnbgfhngh
+- Кальяны
+  - Какой табак мне выбрать в Таиланде?
+  - Какой у вас уголь для кальяна в Таиланде?
+  
