@@ -1,4 +1,5 @@
 
+
 ---
 layout: faq
 ---
@@ -22,5 +23,5 @@ layout: faq
 
 ### <a name="ugol"></a>Какой у вас уголь для кальяна в Таиланде?
 Самый обычный кубический кокосовый уголь для кальяна 25 мм производства грин. 
-![Кокосовый уголь для кальяна в Тайланде](_pic/ugol.jpg)
+![Кокосовый уголь для кальяна в Тайланде](https://raw.githubusercontent.com/stufently/thaihookahfaq.ru/main/_pic/ugol.jpg)
 
