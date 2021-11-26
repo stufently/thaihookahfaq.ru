@@ -1,3 +1,4 @@
+
 ---
 layout: faq
 ---
@@ -42,4 +43,9 @@ layout: faq
 
   # <a name="esiggarets"></a> Одноразовые электронные  сигареты в Таиланде.
   
-## <a name="hqd"></a>  Какие одноразки можно купить на Пхукете, в Паттайе, на Самуи, на Пангане и в Бангкоке?
+## <a name="hqd"></a>  Какие электронные сигареты можно купить на Пхукете, в Паттайе, на Самуи, на Пангане и в Бангкоке?
+Обычно доступны Brusko, Maskking, HQD, Vape Soul, Minifit, Elf Bar, Puff, FIZZY, IZY, Jomotech, Tik Toc, 7salut. Наличие и вкусы уточняйте по контактам.
+Телеграм: [https://t.me/kolesnikov1988](https://t.me/kolesnikov1988)
+Ватсап: [https://wa.me/79529476185](https://wa.me/79529476185)
+Вк: [https://vk.com/id507517641](https://vk.com/id507517641)
+
