@@ -4,7 +4,7 @@ layout: faq
 {% assign faqsize = site.data.faq | map: 'items' | flatten | where:"ldjson", true | size %}
 
 {% if site.data.faq %}{% if faqsize %}
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{% for group in site.data.faq %}{{ group | map: 'items' | flatten | faq_items | join: "," }}{% endfor %}]}</script>{% endif %}{% endif %}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity": {{ (site.data.faq | map: 'items' | flatten | where:"ldjson", true | faq_items | join: ",") }} }</script>{% endif %}{% endif %}
 
 {% for group in site.data.faq %}
 
