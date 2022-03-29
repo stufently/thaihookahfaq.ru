@@ -97,10 +97,6 @@ layout: faq
 
 ![Кальян в распродаже на Пхукете в Таиланде](https://thaihookahfaq.ru/assets/hookphuket.jpg)
 
-Новый кальян за 5000 бат, самовывоз на Ламаи (Самуи)
-
-![Кальян в распродаже на Самуи в Таиланде](https://thaihookahfaq.ru/assets/hooksamui.jpg)
-
 Новый кальян за 4000 бат на Пангане
 
 ![Кальян в распродаже на Пангане в Таиланде](https://thaihookahfaq.ru/assets/hookpangan.jpg)
