@@ -11,15 +11,15 @@ hashtag: huahin-esiggarets
 
 * 4salut на 1600 тяг по 500 бат
 
-* HQD Cuvie Plus на 1200 тяг по 1500 бат
+* HQD Cuvie Plus на 1200 тяг 2% по 1500 бат
 
-* HQD Mega на 1800 тяг по 2000 бат
+* HQD Mega на 1800 тяг 1,9% по 2000 бат
 
-* Pyne 3000 тяг по 800 бат
+* Pyne 3000 тяг 5% по 800 бат
 
-* DOT 2000 тяг по 800 бат
+* DOT 2000 тяг 3,5% по 800 бат
 
-* Monster на 3500 тяг по 800 бат
+* Monster  на 3500 тяг 5% по 800 бат
 
 * City на 1600 тяг по 500 бат
 
@@ -31,7 +31,7 @@ hashtag: huahin-esiggarets
 
 * Puff bar по 1500 бат
 
-* Again на 500 тяг по 500 бат
+* Again на 500 тяг 2% по 500 бат 
 
 Заказать можно на сайте [HQD THAI](https://hqdthai.ru/elektronki/)
 
