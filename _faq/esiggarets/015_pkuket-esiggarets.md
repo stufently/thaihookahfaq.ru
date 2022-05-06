@@ -4,7 +4,7 @@ ldjson: no
 hashtag: pkuket-esiggarets
 ---
 
-## Да сейчас для заказа доступны:
+## Да, в ассортименте:
 
 * Jomo Tech 5000 тяг по 1000 бат
 
