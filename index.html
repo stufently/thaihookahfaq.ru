@@ -901,11 +901,51 @@
 <p>То что вы приезжаете и забираете сами совершенно бесплатно, вы платите за две вещи это получить товар день в день и заплатить за товар при получении. Мы платим за открытие складов, зарплату тем кто работает на точках, за то чтобы оторвать часть товара с основного склада и положить его на точки самовывоза, учет на точках, отдельные сайты для точек, чтобы можно вам было удобно делать заказ, за доп логистику и пр. Если кто то думает что открыть 5 точек самовывоза в тае в Бангкоке, Паттайе, Самуи, Пангане и Пхукете совершенно бесплатно и супер выгодно, я всегда приглашаю людей проинввестировать в точки самовывоза и получать всю маржу с точки, в которую вы инвестировали.</p>
 
 
-
-
-
-
 </div>
+
+<button onclick="topFunction()" id="topBtn" title="Top">🔝</button>
+
+<style lang="css">
+    #topBtn {
+        display: none;
+        position: fixed;
+        bottom: 20px;
+        right: 30px;
+        z-index: 99;
+        border: none;
+        outline: none;
+        background-color: #cccaca;
+        color: white;
+        cursor: pointer;
+        padding: 15px;
+        border-radius: 10px;
+        font-size: 18px;
+    }
+
+    #topBtn:hover {
+        background-color: #a3a3a3;
+    }
+</style>
+
+<script lang="js">
+    goTopBtn = document.getElementById("topBtn");
+    window.onscroll = function() {scrollFunction()};
+    function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+            goTopBtn.style.display = "block";
+        } else {
+            goTopBtn.style.display = "none";
+        }
+    }
+
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+        document.body.scrollTop = 0; // For Safari
+        document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+    }
+</script>
+
+
       </div>
     </main><footer class="site-footer h-card">
   <data class="u-url" href="/"></data>
