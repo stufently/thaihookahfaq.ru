@@ -30,6 +30,8 @@ hashtag: pkuket-esiggarets
 
 * Puff bar по 1500 бат
 
+* Again на 500 тяг по 500 бат
+
 Заказать можно на сайте [HQD THAI](https://hqdthai.ru/elektronki/)
 
  
