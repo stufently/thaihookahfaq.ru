@@ -18,7 +18,7 @@ hashtag: samui-iqos
 
 Заказать можно на сайте [HQD THAI - Стики](https://hqdthai.ru/stiki/iqosstiki/)
 
-* Iqos heetsпо 200 бат пачка
+* Iqos heets по 200 бат пачка
 
 * Creations и Malboro по 250 бат пачка
 
