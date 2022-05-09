@@ -33,6 +33,7 @@ hashtag: samui-delivery
 * Again на 500 тяг 2% по 500 бат 
 
 Заказать можно на сайте [HQD THAI](https://hqdthai.ru/elektronki/)
+
 [Электронки описание](https://savepearlharbor.com/?p=328054)
 
 
