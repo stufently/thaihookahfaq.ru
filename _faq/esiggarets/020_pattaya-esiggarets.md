@@ -32,7 +32,7 @@ hashtag: pattaya-esiggarets
 
 * Again на 500 тяг 2% по 500 бат 
 
-Заказать можно на сайте [PATTAYA HQD IQOS](https://hqd-iqos-pattaya.ru/)
+Заказать можно на сайте [HQD THAI](https://hqdthai.ru/)
 [Электронки описание](https://savepearlharbor.com/?p=328054)
 
 
