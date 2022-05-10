@@ -31,7 +31,7 @@ hashtag: krabi-esiggarets
 
 * Puff bar по 1500 бат
 
-* Again на 500 тяг 2% по 500 бат 
+* Again на 500 тяг 2% по 500 бат  
 
 Заказать можно в интернет магазине [https://hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/)
 
