@@ -14,7 +14,7 @@ hashtag: pkuket-esiggarets
 
 * HQD Mega на 1800 тяг 1,9% по 2000 бат
 
-* Pyne 3000 тяг 5% по 800 бат  Активировать по [инструкции](https://savepearlharbor.com/?p=330334), иначе ее сожгете
+* Pyne 3000 тяг 5% по 800 бат  Активировать по => [инструкции](https://savepearlharbor.com/?p=330334), иначе ее сожгете
 
 * DOT 2000 тяг 3,5% по 800 бат
 
@@ -32,7 +32,7 @@ hashtag: pkuket-esiggarets
 
 * Again на 500 тяг 2% по 500 бат 
 
-Заказать можно на сайте [HQD THAI](https://hqdthai.ru/elektronki/)
+Заказать можно в интернет магазине [https://hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/)
 
 [Электронки описание](https://savepearlharbor.com/?p=328054)
 
