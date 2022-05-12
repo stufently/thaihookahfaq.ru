@@ -14,6 +14,8 @@ hashtag: phuket-iqos
 
 * Iqos duos по 8000 бат
 
+* Iqos Аналог по 2000 бат
+
 ### Стики 
 
 Заказать можно на сайте [HQD THAI - Стики](https://hqdthai.ru/stiki/iqosstiki/)
