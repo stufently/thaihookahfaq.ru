@@ -1,5 +1,5 @@
 ---
-question: Где и какие сигареты (Русские и Импортные) можно купить на Пхукете?
+question: Где и какие сигареты русские и импортные можно купить на Пхукете?
 ldjson: yes
 hashtag: sigar-phuket
 ---
@@ -8,16 +8,16 @@ hashtag: sigar-phuket
 
 В ассортименте:
 
-* Winston
-* Parliament 
-* Dunhill
-* Davidoff
-* Mevius
-* Kent
-* Chapman
+* [Winston](https://hqdthai.ru/sigarety/winston/)
+* [Parliament](https://hqdthai.ru/sigarety/parliament/)
+* [Dunhill](https://hqdthai.ru/sigarety/dunhill/)
+* [Davidoff](https://hqdthai.ru/sigarety/davidoff/)
+* [Mevius](https://hqdthai.ru/sigarety/mevius/)
+* [Kent](https://hqdthai.ru/sigarety/kent/)
+* [Chapman](https://hqdthai.ru/sigarety/сhapman/)
 * Sobranie
-* Malboro 
-* Esse
+* [Malboro](https://hqdthai.ru/sigarety/marlboro/) 
+* [Esse](https://hqdthai.ru/sigarety/esse/)
 
 При заказе от 3000 бат бес  платная доставка за один день с оплатой онлайн, для более мелких заказов такая же доставка 300 бат. Самовывоз Пхукет 1000 бат , доставка русским курьером по Пхукету 2000 бат, в обоих случаях платите при получении заказа,при заказе в интернет магазине [https://hqdthai.ru/](https://hqdthai.ru/).
 
