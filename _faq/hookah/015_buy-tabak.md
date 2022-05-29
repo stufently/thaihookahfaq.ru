@@ -13,7 +13,7 @@ hashtag: buy-tabak
 - Jam 50 гр 250 бат
 - Bright Tea безникотиновая смесь 50 гр за 250 бат
 - Coconara PanRaas 50 гр за 400 бат
-- Hakhla 50 гр за 350 бат
+- Nakhla 50 гр за 350 бат
 - Daily Hookah 40-60 гр за 400 бат
 - Fumari 100 гр за 800 бат
 - Darkside 100 гр за 1000 бат
