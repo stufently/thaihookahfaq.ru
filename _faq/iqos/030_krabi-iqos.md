@@ -1,5 +1,5 @@
 ---
-question: Могу ли я купить устройство iqos и стики айкос на Краби?
+question: Могу ли я купить устройство iqos на Краби?
 ldjson: yes
 hashtag: krabi-iqos
 ---
