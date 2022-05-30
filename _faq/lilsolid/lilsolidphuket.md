@@ -1,12 +1,12 @@
 ---
-question: Могу ли я купить устройство lilsolid на Пхукете?
+question: Могу ли я купить устройство Lil solid на Пхукете?
 ldjson: yes
 hashtag: lilsolidphuket
 ---
 
 ### Да сейчас для заказа на Пхукет доступны устройства:
 
-Заказать можно на сайте [HQD THAI - IQOS](https://hqdthai.ru/iqos/)
+Заказать можно на сайте [HQD THAI](https://hqdthai.ru/iqos/)
 
 * Lil Solid 3000 бат 
 
