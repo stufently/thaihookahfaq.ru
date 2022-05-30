@@ -1,12 +1,12 @@
 ---
-question: Могу ли я купить устройство iqos на Хуахине?
+question: Могу ли я купить устройство Lil solid на Хуахине?
 ldjson: yes
 hashtag: lilsolidphualin
 ---
 
 ### Да сейчас для заказа на Хуахине доступны устройства:
 
-Заказать можно на сайте [HQD THAI - IQOS](https://hqdthai.ru/iqos/)
+Заказать можно на сайте [HQD THAI](https://hqdthai.ru/iqos/)
 
 * Lil Solid 3000 бат 
 
