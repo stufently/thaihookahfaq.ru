@@ -1,5 +1,5 @@
 ---
-question: Могу ли я купить устройство iqos и стики айкос на Хуахине?
+question: Могу ли я купить Cтики айкос на Хуахине?
 ldjson: yes
 hashtag: hualin-stiki
 ---
