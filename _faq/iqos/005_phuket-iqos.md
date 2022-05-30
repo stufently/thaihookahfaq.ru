@@ -1,5 +1,5 @@
 ---
-question: Могу ли я купить устройство iqos и стики айкос на Пхукете?
+question: Могу ли я купить устройство iqos на Пхукете?
 ldjson: yes
 hashtag: phuket-iqos
 ---
