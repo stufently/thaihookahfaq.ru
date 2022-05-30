@@ -6,7 +6,7 @@ hashtag: lilsolidkrabi
 
 ### Да сейчас для заказа на Краби доступны устройства:
 
-Заказать можно на сайте [HQD THAI - IQOS](https://hqdthai.ru/iqos/)
+Заказать можно на сайте [HQD THAI ](https://hqdthai.ru/iqos/)
 
 * Lil Solid 3000 бат 
 
