@@ -1,5 +1,5 @@
 ---
-question: Могу ли я купить устройство iqos в Паттайе?
+question: Могу ли я купить устройство Lil solid в Паттайе?
 ldjson: no
 hashtag: lilsolidpattaya
 ---
