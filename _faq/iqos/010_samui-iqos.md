@@ -6,7 +6,7 @@ hashtag: samui-iqos
 
 ### Да сейчас для заказа на Самуи доступны устройства:
 
-Заказать можно на сайте [HQD THAI - IQOS](https://hqdthai.ru/iqos/)
+Заказать можно на сайте [https://hqdsamui.ru/](https://hqdsamui.ru/stiki-iqos/)
 
 * Iqos 2.4 по 4000 бат
 
