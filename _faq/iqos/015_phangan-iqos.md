@@ -1,5 +1,5 @@
 ---
-question: Могу ли я купить устройство iqos и стики айкос на Пангане?
+question: Могу ли я купить устройство iqos на Пангане?
 ldjson: yes
 hashtag: phangan-iqos
 ---
