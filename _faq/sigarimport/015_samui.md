@@ -15,7 +15,7 @@ hashtag: sigar-samui
 * [Mevius](https://hqdsamui.ru/)
 * [Kent](https://hqdsamui.ru/)
 * [Chapman](https://hqdsamui.ru/)
-* [Sobranie]((https://hqdsamui.ru/)
+* [Sobranie](https://hqdsamui.ru/)
 * [Malboro](https://hqdsamui.ru/)
 * [Esse](https://hqdsamui.ru/)
 
