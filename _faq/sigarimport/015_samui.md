@@ -8,15 +8,15 @@ hashtag: sigar-samui
 
 В ассортименте:
 
-* [Winston](https://hqdthai.ru/sigarety/winston/)
-* [Parliament](https://hqdthai.ru/sigarety/parliament/)
-* [Dunhill](https://hqdthai.ru/sigarety/dunhill/)
-* [Davidoff](https://hqdthai.ru/sigarety/davidoff/)
-* [Mevius](https://hqdthai.ru/sigarety/mevius/)
-* [Kent](https://hqdthai.ru/sigarety/kent/)
-* [Chapman](https://hqdthai.ru/sigarety/сhapman/)
-* Sobranie
-* [Malboro](https://hqdthai.ru/sigarety/marlboro/) 
-* [Esse](https://hqdthai.ru/sigarety/esse/)
+* [Winston](https://hqdsamui.ru/)
+* [Parliament](https://hqdsamui.ru/)
+* [Dunhill](https://hqdsamui.ru/)
+* [Davidoff](https://hqdsamui.ru/)
+* [Mevius](https://hqdsamui.ru/)
+* [Kent](https://hqdsamui.ru/)
+* [Chapman](https://hqdsamui.ru/)
+* [Sobranie]((https://hqdsamui.ru/)
+* [Malboro](https://hqdsamui.ru/)
+* [Esse](https://hqdsamui.ru/)
 
 . При заказе от 3000 бат бесплатная доставка за один день с оплатой онлайн, для более мелких заказов такая же доставка 300 бат. Самовывоз на Самуи 1000 бат на Ламаи, доставка русским курьером по Самуи от 2000 бат платите, в обоих случаях платите при получении заказа, при заказе в интернет магазине [https://hqdsamui.ru/](https://hqdsamui.ru/)
