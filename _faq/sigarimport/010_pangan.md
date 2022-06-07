@@ -15,7 +15,7 @@ hashtag: sigar-pangan
 * [Mevius](https://iqos-hqd-phangan.ru/)
 * [Kent](https://iqos-hqd-phangan.ru/)
 * [Chapman](https://iqos-hqd-phangan.ru/)
-* [Sobranie]((https://iqos-hqd-phangan.ru/)
+* [Sobranie](https://iqos-hqd-phangan.ru/)
 * [Malboro](https://iqos-hqd-phangan.ru/)
 * [Esse](https://iqos-hqd-phangan.ru/)
 
