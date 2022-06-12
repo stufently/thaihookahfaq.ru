@@ -16,6 +16,8 @@ hashtag: samui-delivery
 
 * [Pyne 3000 тяг 5% по 800 бат Активировать](https://hqdthai.ru/elektronki/pyne103/) по => [инструкции](https://savepearlharbor.com/?p=330334), иначе ее сожгете 
 
+* [PYNE 3000 тяг 3,5% по 800 бат)](https://hqdthai.ru/elektronki/pyne105/) по => [инструкции](https://savepearlharbor.com/?p=330334), иначе ее сожгете
+
 * [DOT 2000 тяг 3,5% по 800 бат](https://hqdthai.ru/elektronki/dot/)
 
 * [Monster  на 3500 тяг 5% по 800 бат](https://hqdthai.ru/elektronki/monsterbars/)
