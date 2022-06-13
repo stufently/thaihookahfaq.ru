@@ -8,11 +8,11 @@ hashtag: samui-iqos
 
 Заказать можно на сайте [https://hqdsamui.ru/](https://hqdsamui.ru/stiki-iqos/)
 
-* Iqos 2.4 по 4000 бат
+* Iqos 2.4 по 4000
 
-* Iqos 3.0 по 6000 мульти бат
+* Iqos 3.0 мульти по 6000  бат
 
-* Iqos duos по 8000 бат 
+* Iqos duos по 8000 бат
 
 * Iqos Аналог по 2000 бат
 
