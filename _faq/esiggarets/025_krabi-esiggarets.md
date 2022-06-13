@@ -27,7 +27,9 @@ hashtag: krabi-esiggarets
 
 * Elf Bar на 1600 тяг по 1500 бат
 
-* Izi на 1600 тяг по 1500 бат
+*  - Elf Bar (1500 тяг, 2%) по 700 бат
+   - Elf Bar (3000 тяг, 5%) по 800 бат
+   - Elf Bar (800 тяг, 2%) по 600 бат 
 
 * Puff Plus по 1500 бат
 
