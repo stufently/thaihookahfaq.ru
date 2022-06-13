@@ -8,11 +8,11 @@ hashtag: phangan-iqos
 
 Заказать можно на сайте [HQD - IQOS](https://iqos-hqd-phangan.ru/)
 
-* Iqos 2.4 по 4000 бат
+* Iqos 2.4 по 4000
 
-* Iqos 3.0 по 6000 бат
+* Iqos 3.0 мульти по 6000  бат
 
-* Iqos мульти и duos по 8000 бат
+* Iqos duos по 8000 бат
 
 * Iqos Аналог по 2000 бат
 
