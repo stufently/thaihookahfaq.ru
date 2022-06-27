@@ -1,5 +1,5 @@
 ---
-question: Могу ли я купить Cтики айкос на Хуахине?
+question: Могу ли я купить Cтики айкос В Бангкоке?
 ldjson: yes
 hashtag: bangkok-stiki
 ---
