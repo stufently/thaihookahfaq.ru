@@ -1,5 +1,5 @@
 ---
-question: Могу ли я купить устройство iqos на Хуахине?
+question: Могу ли я купить устройство iqos в Бангкоке?
 ldjson: yes
 hashtag: bangkok-iqos
 ---
