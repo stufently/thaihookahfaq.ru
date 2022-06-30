@@ -22,7 +22,7 @@ hashtag: phangan-esiggarets
 * Puff bar по 1500 бат
 * [Again на 500 тяг 2% по 500 бат](https://hqdthai.ru/elektronki/again/)
 
-Заказать можно в интернет магазине [hqdthai.ru/](https://hqdthai.ru/)
+**Заказать можно в интернет магазине:** [hqdthai.ru/](https://hqdthai.ru/)
 
 [Электронки описание](https://savepearlharbor.com/?p=328054)
 
