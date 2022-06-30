@@ -16,9 +16,9 @@ hashtag: huahin-esiggarets
 * [DOT 2000 тяг 3,5% по 800 бат](https://hqdthai.ru/elektronki/dot/)
 * [Monster  на 3500 тяг 5% по 800 бат](https://hqdthai.ru/elektronki/monsterbars/)
 * City на 1600 тяг по 500 бат
-* Elf Bar (1500 тяг, 2%) по 700 бат
-* Elf Bar (3000 тяг, 5%) по 800 бат
-* Elf Bar (800 тяг, 2%) по 600 бат 
+* [Elf Bar (1500 тяг, 2%) по 700 бат](https://hqdthai.ru/elektronki/elfbar1500/)
+* [Elf Bar (3000 тяг, 5%) по 800 бат](https://hqdthai.ru/elektronki/elfbar3000/)
+* [Elf Bar (800 тяг, 2%) по 600 бат](https://hqdthai.ru/elektronki/elfbar800/)
 * Izi на 1600 тяг по 1500 бат
 * Puff Plus по 1500 бат
 * Puff bar по 1500 бат
