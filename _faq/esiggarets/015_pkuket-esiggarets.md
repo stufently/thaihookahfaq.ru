@@ -1,6 +1,6 @@
 ---
 question: Могу ли я купить одноразовые электронные сигареты на Пхукете?
-ldjson: no
+ldjson: yes
 hashtag: pkuket-esiggarets
 ---
 
