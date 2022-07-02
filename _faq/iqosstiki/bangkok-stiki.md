@@ -4,6 +4,8 @@ ldjson: yes
 hashtag: bangkok-stiki
 ---
 
+Самовывоз стиков на Бангкоке 500 бат на Onnut, доставка русским курьером по Бангкоку 300 бат, при оформлении в  [hqdthai.ru](https://hqdthai.ru) в обоих случаях опалтить можно наличными при получении.
+
 ### Стики 
 
 Заказать можно на сайте [HQD THAI - Стики](https://hqdthai.ru/stiki/iqosstiki/)
@@ -15,4 +17,4 @@ hashtag: bangkok-stiki
 
 
 
-Доставка в Бангкоке 300 бат, самовывоз с onnut 500 бат. Заказать можно в магазине [HQD THAI - Стики](https://hqdthai.ru/stiki/iqosstiki/).
+
