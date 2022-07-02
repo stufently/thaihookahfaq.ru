@@ -4,7 +4,7 @@ ldjson: yes
 hashtag: tabakphuket
 ---
 
-Доставка табака для кальяна с основного склада бкк на Пхукет 1 день и стоит 300 бат заказ оформить на сайте [hqdthai.ru](https://hqdthai.ru/tabak/), доступные методы онлайн оплаты thaihookahfaq.ru/#delivery.
+Доставка табака для кальяна с основного склада бкк на Пхукет 1 день и стоит 300 бат заказ оформить на сайте [hqdthai.ru](https://hqdthai.ru/tabak/), доступные методы онлайн оплаты [https://thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery).
 
 **Можете купить в нашем магазине [https://hqdphuket.ru/tabak](https://hqdphuket.ru/tabak), самовывоз табака на Пхукете +1000 бат на Патонге, доставка русским курьером по Пхукету +2000 бат, при оформлении в  [https://hqdphuket.ru/tabak](https://hqdphuket.ru/tabak) в обоих случаях опалтить можно наличными при получении.** 
 
