@@ -6,7 +6,7 @@ hashtag: tabakphuket
 
 **Можете купить в нашем магазине [hqdphuket.ru](https://hqdphuket.ru/tabak), самовывоз табака на Пхукете +1000 бат на Патонге, доставка русским курьером по Пхукету +2000 бат, при оформлении в  [hqdphuket.ru](https://hqdphuket.ru/tabak) в обоих случаях опалтить можно наличными при получении.** 
 
-### **Да, в ассортименте:**
+### Да, в ассортименте:
 
 * [Adalya по 250 бат](https://hqdphuket.ru/tabak/adalya)
 * [Azfal по 100 бат](https://hqdphuket.ru/tabak/Afzal)
