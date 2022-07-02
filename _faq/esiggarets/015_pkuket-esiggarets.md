@@ -4,7 +4,7 @@ ldjson: yes
 hashtag: pkuket-esiggarets
 ---
 
-### Да, в ассортименте:
+###  Да доставка одноразок  с основного склада бкк на Пхукет 1 день и стоит 300 бат заказ оформить на сайте [https://hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/).  Самовывоз одноразовых электронных сигарет на Пхукете +1000 бат на Патонге, доставка русским курьером по Пхукету +2000 бат, при оформлении в  [[https://hqdphuket.ru](https://hqdphuket.ru/Elektronki)](https://hqdphuket.ru/Elektronki) при самовывозе и русском курьере опалтить можно наличными при получении. Все электронки оригиналы. Посмотреть описание электронок можно здесь [https://savepearlharbor.com/?p=328054](https://savepearlharbor.com/?p=328054)
 
 * Jomo Tech 5000 тяг по 1000 бат
 * 4salut на 1600 тяг по 500 бат
@@ -22,11 +22,4 @@ hashtag: pkuket-esiggarets
 * Puff Plus по 1500 бат
 * Puff bar по 1500 бат
 * [Again на 500 тяг 2% по 500 бат](https://hqdthai.ru/elektronki/again/)
- 
-**Заказать можно в интернет магазине:** [https://hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/)
 
-[Электронки описание](https://savepearlharbor.com/?p=328054)
-
-
- 
- Все электронки оригиналы, если в скобках не указано аналог. Самовывоз на Пхукете +1000 бат на Патонге, доставка русским курьером по Пхукету +2000 бат, при оформлении заказа в интернет магазине [https://hqdphuket.ru](https://hqdphuket.ru/Elektronki). Если хотите оформить заказ со склада на Пхукете запросите актуальное наличие.
