@@ -4,7 +4,7 @@ ldjson: yes
 hashtag: hookahphuket
 ---
 
-**Можете купить в нашем магазине [hqdphuket.ru](https://hqdphuket.ru/raskhodnikikalyan/kalyany), самовывоз кальянов на Пхукете +1000 бат на Патонге, доставка русским курьером по Пхукету +2000 бат, при оформлении в  [hqdphuket.ru](https://hqdphuket.ru/raskhodnikikalyan/kalyany) в обоих случаях опалтить можно наличными при получении.
+**Можете купить в нашем магазине [hqdphuket.ru](https://hqdphuket.ru/raskhodnikikalyan/kalyany), самовывоз кальянов на Пхукете +1000 бат на Патонге, доставка русским курьером по Пхукету +2000 бат, при оформлении в  [hqdphuket.ru](https://hqdphuket.ru/raskhodnikikalyan/kalyany) в обоих случаях опалтить можно наличными при получении.**
 
 ### **Да, в ассортименте:**
 
