@@ -4,7 +4,7 @@ ldjson: yes
 hashtag: pkuket-esiggarets
 --- 
 
-**Да доставка одноразок  с основного склада бкк на Пхукет 1 день и стоит 300 бат заказ оформить на сайте [hqdthai.ru/elektronki/](hqdthai.ru/elektronki/), доступные методы онлайн оплаты [https://thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery).** 
+**Да доставка одноразок  с основного склада бкк на Пхукет 1 день и стоит 300 бат заказ оформить на сайте [hqdthai.ru/elektronki/](hqdthai.ru/elektronki/), доступные методы онлайн оплаты [https://thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery).**  
 
 Да можете, самовывоз одноразовых электронных сигарет на Пхукете +1000 бат на Патонге, доставка русским курьером по Пхукету +2000 бат, при оформлении в  [https://hqdphuket.ru](https://hqdphuket.ru/Elektronki) в обоих случаях опалтить можно наличными при получении. Все электронки оригиналы. Посмотреть описание электронок можно здесь [https://savepearlharbor.com/?p=328054](https://savepearlharbor.com/?p=328054)
 
