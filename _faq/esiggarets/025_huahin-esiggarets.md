@@ -4,6 +4,7 @@ ldjson: yes
 hashtag: huahin-esiggarets
 ---
 
+Да можете, доступные методы онлайн оплаты [thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery)
 
 ### Да, в ассортименте:
 
