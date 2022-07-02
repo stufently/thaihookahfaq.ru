@@ -4,6 +4,8 @@ ldjson: yes
 hashtag: tabakphuket
 ---
 
+Доставка одноразок с основного склада бкк на Пхукет 1 день и стоит 300 бат заказ оформить на сайте [hqdphuket.ru](https://hqdphuket.ru/raskhodnikikalyan/kalyany), доступные методы онлайн оплаты thaihookahfaq.ru/#delivery.
+
 **Можете купить в нашем магазине [hqdphuket.ru](https://hqdphuket.ru/tabak), самовывоз табака на Пхукете +1000 бат на Патонге, доставка русским курьером по Пхукету +2000 бат, при оформлении в  [hqdphuket.ru](https://hqdphuket.ru/tabak) в обоих случаях опалтить можно наличными при получении.** 
 
 ### Да, в ассортименте:
