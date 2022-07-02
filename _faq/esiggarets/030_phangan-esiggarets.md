@@ -4,7 +4,9 @@ ldjson: yes
 hashtag: phangan-esiggarets
 ---
 
-Да можете, доступные методы онлайн оплаты [thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery), самовывоз одноразовых электронных сигарет на Пангане 500 бат на Тонг Сале, доставка русским курьером по Пангану 1000 бат, при оформлении в  [iqos-hqd-phangan.ru](https://iqos-hqd-phangan.ru/) в обоих случаях опалтить можно наличными при получении. Все электронки оригиналы. Посмотреть описание электронок можно здесь [savepearlharbor.com/?p=328054](https://savepearlharbor.com/?p=328054)
+**Да доставка одноразок  с основного склада бкк на Пхукет 1 день и стоит 300 бат заказ оформить на сайте [https://hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/), доступные методы онлайн оплаты [https://thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery).**  
+
+Да можете, доступные методы онлайн оплаты [https://thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery), самовывоз одноразовых электронных сигарет на Пангане 500 бат на Тонг Сале, доставка русским курьером по Пангану 1000 бат, при оформлении в  [https://iqos-hqd-phangan.ru/](https://iqos-hqd-phangan.ru/) в обоих случаях опалтить можно наличными при получении. Все электронки оригиналы. Посмотреть описание электронок можно здесь [https://savepearlharbor.com/?p=328054](https://savepearlharbor.com/?p=328054)
 
 ### Да, в ассортименте:
 * Jomo Tech 5000 тяг по 1000 бат
@@ -28,7 +30,7 @@ hashtag: phangan-esiggarets
 * [Vapeman Dig2 5%, 3500 затяжек по 800 бат](https://iqos-hqd-phangan.ru/)
 * [SMOK VVOW 2%, 600 затяжек по 500 бат](https://iqos-hqd-phangan.ru/) 
 
-**Заказать можно в интернет магазине:** [iqos-hqd-phangan.ru/](https://iqos-hqd-phangan.ru/)
+**Заказать можно в интернет магазине:** [https://iqos-hqd-phangan.ru/](https://iqos-hqd-phangan.ru/)
 
 [Электронки описание](https://savepearlharbor.com/?p=328054)
 

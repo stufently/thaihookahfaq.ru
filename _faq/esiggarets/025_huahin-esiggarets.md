@@ -4,7 +4,7 @@ ldjson: yes
 hashtag: huahin-esiggarets
 ---
 
-**Да доставка одноразок  с основного склада бкк на Пхукет 1 день и стоит 300 бат заказ оформить на сайте [hqdthai.ru](hqdthai.ru/elektronki/), доступные методы онлайн оплаты [thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery).** 
+**Да доставка одноразок  с основного склада бкк на Пхукет 1 день и стоит 300 бат заказ оформить на сайте [hqdthai.ru/elektronki/](hqdthai.ru/elektronki/), доступные методы онлайн оплаты [https://thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery).** 
 
 ### Да, в ассортименте:
 
@@ -29,7 +29,7 @@ hashtag: huahin-esiggarets
 * [Vapeman Dig2 5%, 3500 затяжек по 800 бат](https://hqdthai.ru/elektronki/vapemandig2/)
 * [SMOK VVOW 2%, 600 затяжек по 500 бат](https://hqdthai.ru/elektronki/smokvvow/) 
 
-**Заказать можно в интернет магазине:** [hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/)
+**Заказать можно в интернет магазине:** [https://hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/)
 
 [Электронки описание](https://savepearlharbor.com/?p=328054)
 

@@ -6,7 +6,7 @@ hashtag: hookahphuket
 
 Доставка кальяна с основного склада бкк на Пхукет 1 день и стоит 300 бат заказ оформить на сайте [hqdthai.ru](https://hqdthai.ru/kalyan/kalyany/), доступные методы онлайн оплаты thaihookahfaq.ru/#delivery.
 
-**Можете купить в нашем магазине [hqdphuket.ru](https://hqdphuket.ru/raskhodnikikalyan/kalyany), самовывоз кальянов на Пхукете +1000 бат на Патонге, доставка русским курьером по Пхукету +2000 бат, при оформлении в  [hqdphuket.ru](https://hqdphuket.ru/raskhodnikikalyan/kalyany) в обоих случаях опалтить можно наличными при получении.**
+**Можете купить в нашем магазине [https://hqdphuket.ru/raskhodnikikalyan/kalyany](https://hqdphuket.ru/raskhodnikikalyan/kalyany), самовывоз кальянов на Пхукете +1000 бат на Патонге, доставка русским курьером по Пхукету +2000 бат, при оформлении в  [https://hqdphuket.ru/raskhodnikikalyan/kalyany](https://hqdphuket.ru/raskhodnikikalyan/kalyany) в обоих случаях опалтить можно наличными при получении.**
 
 ### Да, в ассортименте:
 
@@ -14,4 +14,4 @@ hashtag: hookahphuket
 * [Кальян большой за 8000 бат](https://hqdphuket.ru/kalyan/kalyanbolshoy)
 * [Кальян Наносмок за 4000 бат](https://hqdphuket.ru/kalyan/nanosmoke)
 
-Остальные кальяны можете посмотреть на нашем сайте [hqdphuket.ru](https://hqdthai.ru/kalyan/kalyany/) 
+Остальные кальяны можете посмотреть на нашем сайте [https://hqdthai.ru/kalyan/kalyany/](https://hqdthai.ru/kalyan/kalyany/) 

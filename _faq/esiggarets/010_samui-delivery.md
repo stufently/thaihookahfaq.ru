@@ -4,7 +4,9 @@ ldjson: yes
 hashtag: samui-delivery 
 ---
 
-Да можете, доступные методы онлайн оплаты [thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery), самовывоз одноразовых электронных сигарет на Самуи 500 бат на Ламаи, доставка русским курьером по Самуи 1000 бат, при оформлении в  [hqdsamui.ru](https://hqdsamui.ru/electronki/) в обоих случаях опалтить можно наличными при получении. Все электронки оригиналы. Посмотреть описание электронок можно здесь [savepearlharbor.com/?p=328054](https://savepearlharbor.com/?p=328054)
+**Да доставка одноразок  с основного склада бкк на Пхукет 1 день и стоит 300 бат заказ оформить на сайте [https://hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/), доступные методы онлайн оплаты [https://thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery).**  
+
+Да можете, доступные методы онлайн оплаты [https://thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery), самовывоз одноразовых электронных сигарет на Самуи 500 бат на Ламаи, доставка русским курьером по Самуи 1000 бат, при оформлении в  [https://hqdsamui.ru/electronki/](https://hqdsamui.ru/electronki/) в обоих случаях опалтить можно наличными при получении. Все электронки оригиналы. Посмотреть описание электронок можно здесь [https://savepearlharbor.com/?p=328054](https://savepearlharbor.com/?p=328054)
 
 
 ### **Да, в ассортименте:**
@@ -30,7 +32,7 @@ hashtag: samui-delivery
 * [Vapeman Dig2 5%, 3500 затяжек по 800 бат](https://hqdsamui.ru/electronki/)
 * [SMOK VVOW 2%, 600 затяжек по 500 бат](https://hqdsamui.ru/electronki/)
 
-**Заказать можно в интернет магазине:** [hqdsamui.ru](https://hqdsamui.ru/electronki/)
+**Заказать можно в интернет магазине:** [https://hqdsamui.ru/electronki/](https://hqdsamui.ru/electronki/)
 
 [Электронки описание](https://savepearlharbor.com/?p=328054)
 

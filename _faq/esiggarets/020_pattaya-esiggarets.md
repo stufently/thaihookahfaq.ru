@@ -4,7 +4,9 @@ ldjson: yes
 hashtag: pattaya-esiggarets
 ---
 
-Да можете, доступные методы онлайн оплаты [thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery), самовывоз одноразовых электронных сигарет на Паттайе 1000 бат у рыбного рынка, доставка русским курьером по Паттайе 2000 бат, при оформлении в  [hqdthai.ru](http://hqdthai.ru) в обоих случаях опалтить можно наличными при получении. Все электронки оригиналы. Посмотреть описание электронок можно здесь [savepearlharbor.com/?p=328054](https://savepearlharbor.com/?p=328054)
+**Да доставка одноразок  с основного склада бкк на Пхукет 1 день и стоит 300 бат заказ оформить на сайте [https://hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/), доступные методы онлайн оплаты [https://thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery).**  
+
+Да можете, доступные методы онлайн оплаты [https://thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery), самовывоз одноразовых электронных сигарет на Паттайе 1000 бат у рыбного рынка, доставка русским курьером по Паттайе 2000 бат, при оформлении в  [http://hqdthai.ru](http://hqdthai.ru) в обоих случаях опалтить можно наличными при получении. Все электронки оригиналы. Посмотреть описание электронок можно здесь [https://savepearlharbor.com/?p=328054](https://savepearlharbor.com/?p=328054)
 
 
 ### Да, в ассортименте
@@ -30,7 +32,7 @@ hashtag: pattaya-esiggarets
 * [Vapeman Dig2 5%, 3500 затяжек по 800 бат](https://hqdthai.ru/elektronki/vapemandig2/)
 * [SMOK VVOW 2%, 600 затяжек по 500 бат](https://hqdthai.ru/elektronki/smokvvow/)  
 
-**Заказать можно в интернет магазине:** [hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/)
+**Заказать можно в интернет магазине:** [https://hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/)
 
 [Электронки описание](https://savepearlharbor.com/?p=328054)
 
