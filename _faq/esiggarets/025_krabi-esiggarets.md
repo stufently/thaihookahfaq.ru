@@ -4,7 +4,7 @@ ldjson: yes
 hashtag: krabi-esiggarets
 ---
 
-Да можете, доступные методы онлайн оплаты [thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery)
+**Да доставка одноразок  с основного склада бкк на Пхукет 1 день и стоит 300 бат заказ оформить на сайте [hqdthai.ru](hqdthai.ru/elektronki/), доступные методы онлайн оплаты [thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery).** 
 
 ### Да, в ассортименте:
 
