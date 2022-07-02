@@ -1,6 +1,6 @@
 ---
 question: Какие у вас есть кальяны в распродаже в Таиланде?
-ldjson: no
+ldjson: yes
 hashtag: hookah-sale
 ---
 

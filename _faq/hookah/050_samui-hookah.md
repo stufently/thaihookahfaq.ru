@@ -1,6 +1,6 @@
 ---
 question: Какие условия для покупки и доставки кальяна на Самуи?
-ldjson: no
+ldjson: yes
 hashtag: samui-hookah
 ---
 

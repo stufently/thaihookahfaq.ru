@@ -1,6 +1,6 @@
 ---
 question: Могу ли я купить Стики айкос в Паттайе?
-ldjson: no
+ldjson: yes
 hashtag: pattaya-stiki
 ---
 

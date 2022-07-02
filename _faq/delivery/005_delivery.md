@@ -1,6 +1,6 @@
 ---
 question: Какие нужны данные для доставки и способы оплаты?
-ldjson: no
+ldjson: yes
 hashtag: delivery
 ---
 

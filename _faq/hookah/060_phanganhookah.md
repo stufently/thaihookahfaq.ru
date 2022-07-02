@@ -1,6 +1,6 @@
 ---
 question: Какие условия для покупки и доставки кальяна на Панган?
-ldjson: no
+ldjson: yes
 hashtag: phanganhookah
 ---
 

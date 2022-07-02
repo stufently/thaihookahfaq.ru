@@ -1,6 +1,6 @@
 ---
 question: Что делать если я вам не доверяю и не хочу оплачивать доставку?
-ldjson: no
+ldjson: yes
 hashtag: doverie
 ---
 

@@ -29,5 +29,5 @@ hashtag: pkuket-esiggarets
 * [Quik 3%, 800 тяг по 600 бат](https://hqdthai.ru/elektronki/quik/)
 * [Quik 5%, 800 тяг по 600 бат](https://hqdthai.ru/elektronki/quik5/)
 * [Vapeman Dig2 5%, 3500 затяжек по 800 бат](https://hqdthai.ru/elektronki/vapemandig2/)
-* [SMOK VVOW 2%, 600 затяжек по 500 бат](https://hqdthai.ru/elektronki/smokvvow/)
+* [SMOK VVOW 2%, 600 затяжек по 500 бат](https://hqdthai.ru/elektronki/smokvvow/) 
 
