@@ -23,6 +23,10 @@ hashtag: huahin-esiggarets
 * Puff Plus по 1500 бат
 * Puff bar по 1500 бат
 * [Again на 500 тяг 2% по 500 бат](https://hqdthai.ru/elektronki/again/)
+* [Quik 3%, 800 тяг по 600 бат](https://hqdthai.ru/elektronki/quik/)
+* [Quik 5%, 800 тяг по 600 бат](https://hqdthai.ru/elektronki/quik5/)
+* [Vapeman Dig2 5%, 3500 затяжек по 800 бат](https://hqdthai.ru/elektronki/vapemandig2/)
+* [SMOK VVOW 2%, 600 затяжек по 500 бат](https://hqdthai.ru/elektronki/smokvvow/)
 
 **Заказать можно в интернет магазине:** [hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/)
 
