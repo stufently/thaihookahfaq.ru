@@ -1,6 +1,6 @@
 ---
 question: Могу ли я купить устройство iqos на Пхукете?
-ldjson: yes
+ldjson: yes 
 hashtag: phuket-iqos
 ---
 

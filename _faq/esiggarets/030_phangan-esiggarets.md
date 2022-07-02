@@ -1,6 +1,6 @@
 ---
 question: Могу ли я купить одноразовые электронные сигареты на Пангане?
-ldjson: yes
+ldjson: yes 
 hashtag: phangan-esiggarets
 ---
 

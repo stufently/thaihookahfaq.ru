@@ -1,6 +1,6 @@
 ---
 question: Могу ли я купить устройство Lil solid в Паттайе?
-ldjson: yes
+ldjson: yes 
 hashtag: lilsolidpattaya
 ---
 

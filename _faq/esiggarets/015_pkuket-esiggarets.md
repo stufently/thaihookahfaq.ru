@@ -1,8 +1,8 @@
 ---
 question: Могу ли я купить одноразовые электронные сигареты на Пхукете?
-ldjson: yes
+ldjson: yes 
 hashtag: pkuket-esiggarets
----
+--- 
 
 ###  Да доставка одноразок  с основного склада бкк на Пхукет 1 день и стоит 300 бат заказ оформить на сайте [https://hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/), доступные методы онлайн оплаты [https://thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery).  
 

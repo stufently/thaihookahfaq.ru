@@ -1,6 +1,6 @@
 ---
 question: Можно ли купить или арендовать кальян на Пхукете, в Паттайе, на Самуи, на Пангане и в Бангкоке?
-ldjson: yes
+ldjson: yes 
 hashtag: arendahookah
 ---
 

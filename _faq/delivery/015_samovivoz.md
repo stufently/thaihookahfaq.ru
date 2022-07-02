@@ -1,6 +1,6 @@
 ---
 question: Почему когда я сам приезжаю и забираю товар я должен платить за самовывоз?
-ldjson: yes
+ldjson: yes 
 hashtag: samovivoz
 ---
 

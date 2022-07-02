@@ -1,6 +1,6 @@
 ---
 question: Могу ли я купить устройство Lil solid на Пхукете?
-ldjson: yes
+ldjson: yes 
 hashtag: lilsolidphuket
 ---
 

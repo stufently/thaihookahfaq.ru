@@ -1,6 +1,6 @@
 ---
 question: Могу ли я купить устройство iqos в Паттайе?
-ldjson: yes
+ldjson: yes 
 hashtag: pattaya-iqos
 ---
 

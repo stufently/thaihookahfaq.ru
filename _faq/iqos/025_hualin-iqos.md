@@ -1,6 +1,6 @@
 ---
 question: Могу ли я купить устройство iqos на Хуахине?
-ldjson: yes
+ldjson: yes 
 hashtag: hualin-iqos
 ---
 

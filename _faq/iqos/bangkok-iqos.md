@@ -1,6 +1,6 @@
 ---
 question: Могу ли я купить устройство iqos в Бангкоке?
-ldjson: yes
+ldjson: yes 
 hashtag: bangkok-iqos
 ---
 

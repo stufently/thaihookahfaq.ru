@@ -1,6 +1,6 @@
 ---
 question: Могу ли я купить устройство iqos на Самуи?
-ldjson: yes
+ldjson: yes 
 hashtag: samui-iqos
 ---
 

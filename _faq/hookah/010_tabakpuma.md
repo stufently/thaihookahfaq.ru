@@ -1,6 +1,6 @@
 ---
 question: Какой табак для кальяна курите вы?
-ldjson: yes
+ldjson: yes 
 hashtag: tabakpuma
 ---
 

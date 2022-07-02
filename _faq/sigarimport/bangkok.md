@@ -1,6 +1,6 @@
 ---
 question: Где и какие сигареты русские и импортные можно купить в Бангкоке?
-ldjson: yes
+ldjson: yes 
 hashtag: bangkok-sigar
 ---
 

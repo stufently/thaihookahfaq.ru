@@ -1,6 +1,6 @@
 ---
 question: Могу ли я купить устройство Lil solid на Краби?
-ldjson: yes
+ldjson: yes 
 hashtag: lilsolidkrabi
 ---
 

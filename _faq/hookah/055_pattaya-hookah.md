@@ -1,6 +1,6 @@
 ---
 question: Какие условия для покупки и доставки кальяна в Паттайе?
-ldjson: yes
+ldjson: yes 
 hashtag: pattaya-hookah
 ---
 

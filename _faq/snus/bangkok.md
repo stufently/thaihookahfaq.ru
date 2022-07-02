@@ -1,6 +1,6 @@
 ---
 question: Могу ли я купить снюс в Бангкоке?
-ldjson: yes
+ldjson: yes 
 hashtag: bangkok-snus
 ---
 

@@ -1,6 +1,6 @@
 ---
 question: Могу ли я купить Стики айкос на Краби?
-ldjson: yes
+ldjson: yes 
 hashtag: krabi-stiki
 ---
 
@@ -9,11 +9,8 @@ hashtag: krabi-stiki
 Заказать можно на сайте [HQD THAI - Стики](https://hqdthai.ru/stiki/iqosstiki/)
 
 * Iqos heets по 200 бат пачка
-
 * Terea по 300 бат пачка
-
 * Creations и Malboro по 250 бат пачка
-
 * lil solid (Fiit) по 200 бат пачка  
 
 

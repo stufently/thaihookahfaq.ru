@@ -1,6 +1,6 @@
 ---
 question: Могу ли я купить одноразовые электронные сигареты в Хуахин?
-ldjson: yes
+ldjson: yes 
 hashtag: huahin-esiggarets
 ---
 

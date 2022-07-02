@@ -1,6 +1,6 @@
 ---
 question: Могу ли я купить снюс на Пхукете?
-ldjson: yes
+ldjson: yes 
 hashtag: phuket-snus
 ---
 

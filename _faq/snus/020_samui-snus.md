@@ -1,6 +1,6 @@
 ---
 question: Могу ли я купить снюс на Самуи?
-ldjson: yes
+ldjson: yes 
 hashtag: samui-snus
 ---
 

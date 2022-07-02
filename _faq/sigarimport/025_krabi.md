@@ -1,6 +1,6 @@
 ---
 question: Где и какие сигареты русские и импортные можно купить в Краби?
-ldjson: yes
+ldjson: yes 
 hashtag: sigar-krabi
 ---
 

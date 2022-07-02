@@ -1,6 +1,6 @@
 ---
 question: Могу ли я купить снюс на Краби?
-ldjson: yes
+ldjson: yes 
 hashtag: krabi-snus
 ---
 

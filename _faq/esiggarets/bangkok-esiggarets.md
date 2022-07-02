@@ -1,6 +1,6 @@
 ---
 question: Могу ли я купить одноразовые электронные сигареты в Бангкоке?
-ldjson: yes
+ldjson: yes 
 hashtag: bangkok-esiggarets
 ---
 

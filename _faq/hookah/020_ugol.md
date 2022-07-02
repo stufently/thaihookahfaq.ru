@@ -1,6 +1,6 @@
 ---
 question: Какой у вас уголь для кальяна в Таиланде?
-ldjson: yes
+ldjson: yes 
 hashtag: ugol
 ---
 

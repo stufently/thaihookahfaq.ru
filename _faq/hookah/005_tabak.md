@@ -1,6 +1,6 @@
 ---
 question: Какой табак для кальяна мне выбрать в Таиланде?
-ldjson: yes
+ldjson: yes 
 hashtag: tabak
 ---
 

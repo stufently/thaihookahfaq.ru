@@ -1,6 +1,6 @@
 ---
 question: Есть ли штраф за курение кальяна в Таиланде на Пхукете?
-ldjson: yes
+ldjson: yes 
 hashtag: hookahfine
 ---
 

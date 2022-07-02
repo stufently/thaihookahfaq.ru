@@ -1,6 +1,6 @@
 ---
 question: Могу ли я купить одноразовые электронные сигареты на Самуи?
-ldjson: yes
+ldjson: yes 
 hashtag: samui-delivery 
 ---
 

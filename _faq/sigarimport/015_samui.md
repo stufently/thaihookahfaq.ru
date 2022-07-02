@@ -1,6 +1,6 @@
 ---
 question: Где и какие сигареты русские и импортные можно купить на Самуи?
-ldjson: yes
+ldjson: yes 
 hashtag: sigar-samui
 ---
 

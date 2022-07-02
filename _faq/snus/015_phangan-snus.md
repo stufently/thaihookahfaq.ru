@@ -1,6 +1,6 @@
 ---
 question: Могу ли я купить снюс на Пангане?
-ldjson: yes
+ldjson: yes 
 hashtag: phangan-snus
 ---
 

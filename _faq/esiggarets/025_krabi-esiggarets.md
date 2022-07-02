@@ -1,6 +1,6 @@
 ---
 question: Могу ли я купить одноразовые электронные сигареты в Краби?
-ldjson: yes
+ldjson: yes 
 hashtag: krabi-esiggarets
 ---
 

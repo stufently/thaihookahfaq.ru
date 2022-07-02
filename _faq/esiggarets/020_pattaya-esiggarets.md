@@ -1,6 +1,6 @@
 ---
 question: Могу ли я купить одноразовые электронные сигареты в Паттайе?
-ldjson: yes
+ldjson: yes 
 hashtag: pattaya-esiggarets
 ---
 
@@ -25,7 +25,7 @@ hashtag: pattaya-esiggarets
 * [Quik 3%, 800 тяг по 600 бат](https://hqdthai.ru/elektronki/quik/)
 * [Quik 5%, 800 тяг по 600 бат](https://hqdthai.ru/elektronki/quik5/)
 * [Vapeman Dig2 5%, 3500 затяжек по 800 бат](https://hqdthai.ru/elektronki/vapemandig2/)
-* [SMOK VVOW 2%, 600 затяжек по 500 бат](https://hqdthai.ru/elektronki/smokvvow/) 
+* [SMOK VVOW 2%, 600 затяжек по 500 бат](https://hqdthai.ru/elektronki/smokvvow/)  
 
 **Заказать можно в интернет магазине:** [hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/)
 

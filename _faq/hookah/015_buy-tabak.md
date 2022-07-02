@@ -1,6 +1,6 @@
 ---
 question: Какой табак и по чем я могу купить в Тайланде?
-ldjson: yes
+ldjson: yes 
 hashtag: buy-tabak
 ---
 

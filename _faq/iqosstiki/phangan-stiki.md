@@ -1,6 +1,6 @@
 ---
 question: Могу ли я купить Стики айкос на Пангане?
-ldjson: yes
+ldjson: yes 
 hashtag: phangan-stiki
 ---
 
@@ -9,11 +9,8 @@ hashtag: phangan-stiki
 Заказать можно на сайте [HQD THAI - Стики](https://hqdthai.ru/stiki/iqosstiki/)
 
 * Iqos heets по 200 бат пачка
-
 * Terea по 300 бат пачка
-
 * Creations и malboro по 250 бат пачка
-
 * lil solid (Fiit) по 200 бат пачка  
 
 

@@ -1,6 +1,6 @@
 ---
 question: Могу ли я купить устройство iqos на Краби?
-ldjson: yes
+ldjson: yes 
 hashtag: krabi-iqos
 ---
 
