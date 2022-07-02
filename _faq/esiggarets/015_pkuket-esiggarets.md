@@ -6,6 +6,8 @@ hashtag: pkuket-esiggarets
 
 ###  Да доставка одноразок  с основного склада бкк на Пхукет 1 день и стоит 300 бат заказ оформить на сайте [https://hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/).  Самовывоз одноразовых электронных сигарет на Пхукете +1000 бат на Патонге, доставка русским курьером по Пхукету +2000 бат, при оформлении в  [[https://hqdphuket.ru](https://hqdphuket.ru/Elektronki)](https://hqdphuket.ru/Elektronki) при самовывозе и русском курьере опалтить можно наличными при получении. Все электронки оригиналы. Посмотреть описание электронок можно здесь [https://savepearlharbor.com/?p=328054](https://savepearlharbor.com/?p=328054)
 
+У нас самый большой ассортимент одноразовых электронок на Пхукете:
+
 * Jomo Tech 5000 тяг по 1000 бат
 * 4salut на 1600 тяг по 500 бат
 * [HQD Cuvie Plus на 1200 тяг 2% по 1500 бат](https://hqdthai.ru/elektronki/hqdcuvieplus/)
