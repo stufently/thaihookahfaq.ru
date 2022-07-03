@@ -12,7 +12,7 @@ hashtag: hookah-sale
 
 ![Кальян на две трубки в распродаже в Таиланде](https://thaihookahfaq.ru/assets/hookah2.jpg)
 
-Кальян египетский, 2500 бат.
+Кальян египетский, 2500 бат. ПРОДАНО
 
 ![Кальян египетский в распродаже в Таиланде](https://thaihookahfaq.ru/assets/hookah3.jpg)
 
