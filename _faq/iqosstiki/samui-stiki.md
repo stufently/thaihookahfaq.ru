@@ -4,6 +4,10 @@ ldjson: yes
 hashtag: samui-stiki
 ---
 
+**Да доставка стиков  с основного склада бкк на Пхукет 1 день и стоит 300 бат при оплате до 3 часов дня. Заказ оформить на сайте [https://hqdthai.ru/stiki/](https://hqdthai.ru/stiki/), доступные методы онлайн оплаты [https://thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery).**
+
+
+
 Самовывоз стиков на Самуи 500 бат на Ламаи, доставка русским курьером по Самуи 1000 бат, при оформлении в  [hqdsamui.ru](https://hqdsamui.ru/electronki/) в обоих случаях опалтить можно наличными при получении. 
 
 ###  Стики 
