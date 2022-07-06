@@ -4,11 +4,11 @@ ldjson: yes
 hashtag: samui-iqos
 ---
 
-Самовывоз IQOS на Самуи 500 бат на Ламаи, доставка русским курьером по Самуи 1000 бат, при оформлении в  [https://hqdsamui.ru/electronki/](https://hqdsamui.ru/electronki/) в обоих случаях опалтить можно наличными при получении. 
+Самовывоз IQOS на Самуи 500 бат на Ламаи, доставка русским курьером по Самуи 1000 бат, при оформлении в  [https://hqdthai.ru/iqos/](https://hqdthai.ru/iqos/) в обоих случаях опалтить можно наличными при получении. 
 
 ### Да сейчас для заказа на Самуи доступны устройства:
 
-Заказать можно на сайте [https://hqdsamui.ru/](https://hqdsamui.ru/stiki-iqos/)
+Заказать можно на сайте [https://hqdthai.ru/iqos/](https://hqdthai.ru/iqos/)
 
 * Iqos 2.4 по 4000
 * Iqos 3.0 мульти по 6000  бат
