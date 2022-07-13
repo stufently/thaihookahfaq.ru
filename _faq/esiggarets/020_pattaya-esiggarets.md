@@ -4,7 +4,7 @@ ldjson: yes
 hashtag: pattaya-esiggarets
 ---
 
-Да доставка одноразок  с основного склада бкк на Пхукет 1 день и стоит 300 бат при оплате до 3 часов дня. Заказ оформить на сайте [https://hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/), доступные методы онлайн оплаты [https://thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery). На все средние заказы бесплатная доставка до двери с бкк.  
+Да доставка одноразок  с основного склада бкк на Паттайе 1 день и стоит 300 бат при оплате до 3 часов дня. Заказ оформить на сайте [https://hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/), доступные методы онлайн оплаты [https://thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery). На все средние заказы бесплатная доставка до двери с бкк.  
 
 
 Самовывоз одноразовых электронных сигарет на Паттайе +1000 бат у рыбного рынка, доставка русским курьером по Паттайе +2000 бат, при оформлении в  [https://hqd-iqos-pattaya.ru/electronki](https://hqd-iqos-pattaya.ru/electronki) в обоих случаях оплатить можно наличными при получении. Все электронки оригиналы. Посмотреть описание электронок можно здесь [https://savepearlharbor.com/?p=328054](https://savepearlharbor.com/?p=328054). На все крупные заказы бесплатный самовывоз с рыбного рынка.

@@ -4,7 +4,7 @@ ldjson: yes
 hashtag: phangan-esiggarets
 ---
 
-Да доставка одноразок  с основного склада бкк на Пхукет 1 день и стоит 300 бат при оплате до 3 часов дня. Заказ оформить на сайте [https://hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/), доступные методы онлайн оплаты [https://thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery). На все средние заказы бесплатная доставка до двери с бкк.  
+Да доставка одноразок  с основного склада бкк на Панген 1 день и стоит 300 бат при оплате до 3 часов дня. Заказ оформить на сайте [https://hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/), доступные методы онлайн оплаты [https://thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery). На все средние заказы бесплатная доставка до двери с бкк.  
 
 
 Самовывоз одноразовых электронных сигарет на Пангане +500 бат на Тонг Сале, доставка русским курьером по Пангану +1000 бат, при оформлении в  [https://iqos-hqd-phangan.ru/electronki](https://iqos-hqd-phangan.ru/electronki) в обоих случаях оплатить можно наличными при получении. Все электронки оригиналы. Посмотреть описание электронок можно здесь [https://savepearlharbor.com/?p=328054](https://savepearlharbor.com/?p=328054). На все крупные заказы бесплатный самовывоз с Тонг Сале.
