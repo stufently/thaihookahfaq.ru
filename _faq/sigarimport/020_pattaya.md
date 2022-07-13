@@ -4,6 +4,12 @@ ldjson: yes
 hashtag: sigar-pattaya
 ---
 
+Да доставка сигарет с основного склада бкк по Паттайе 1 день и стоит 300 бат при оплате до 3 часов дня. Заказ оформить на сайте [https://hqdthai.ru/sigarety/](https://hqdthai.ru/sigarety/), доступные методы онлайн оплаты [https://thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery). На все средние заказы бесплатная доставка до двери с бкк.  
+ 
+
+Самовывоз сигарет в Паттайе +1000 бат у рыбного рынка, доставка русским курьером по Паттайе +2000 бат, при оформлении в [https://hqd-iqos-pattaya.ru/sigar](https://hqd-iqos-pattaya.ru/sigar) в обоих случаях оплатить можно наличными при получении. На все крупные заказы бесплатный самовывоз с рыбного рынка.
+
+
 ### Русские и Импортные сигареты вы можете заказать в нашем интернет магазине:
 
 В ассортименте:
@@ -14,9 +20,8 @@ hashtag: sigar-pattaya
 * [Davidoff](https://hqdthai.ru/sigarety/davidoff/)
 * [Mevius](https://hqdthai.ru/sigarety/mevius/)
 * [Kent](https://hqdthai.ru/sigarety/kent/)
-* [Chapman](https://hqdthai.ru/sigarety/сhapman/)
-* Sobranie
-* [Malboro](https://hqdthai.ru/sigarety/marlboro/) 
+* [Chapman](https://hqdthai.ru/sigarety/chapman/)
+* [Sobranie](https://hqdthai.ru/sigarety/)
+* [Malboro](https://hqdthai.ru/sigarety/marlboro/)
 * [Esse](https://hqdthai.ru/sigarety/esse/)
 
-При заказе от 3000 бат бесплатная доставка в любую точку Паттайи за один день с оплатой онлайн, для более мелких заказов такая же доставка 300 бат. Доставка день в день в Паттайе 300 бат. Самовывоз в Паттайе 1000 бат на севере у рыбного рынка, доставка русским курьером в Паттайе 2000 бат, в обоих случаях платите после получения заказа.

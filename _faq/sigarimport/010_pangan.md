@@ -4,19 +4,24 @@ ldjson: yes
 hashtag: sigar-pangan
 ---
 
+Да доставка сигарет с основного склада бкк на Пангане 1 день и стоит 300 бат при оплате до 3 часов дня. Заказ оформить на сайте  [https://hqdthai.ru/sigarety/](https://hqdthai.ru/sigarety/), доступные методы онлайн оплаты [https://thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery). На все средние заказы бесплатная доставка до двери с бкк.  
+   
+
+Самовывоз сигарет на Пангане +500 бат на Тонг Сале, доставка русским курьером по Пангану +1000 бат, при оформлении в  [https://iqos-hqd-phangan.ru/stiki-iqos](https://iqos-hqd-phangan.ru/stiki-iqos) в обоих случаях оплатить можно наличными при получении. На все крупные заказы бесплатный самовывоз с Тонг Сале.
+
 ### Русские и Импортные сигареты вы можете заказать в нашем интернет магазине
 
 В ассортименте:
 
-* [Winston](https://iqos-hqd-phangan.ru/)
-* [Parliament](https://iqos-hqd-phangan.ru/)
-* [Dunhill](https://iqos-hqd-phangan.ru/)
-* [Davidoff](https://iqos-hqd-phangan.ru/)
-* [Mevius](https://iqos-hqd-phangan.ru/)
-* [Kent](https://iqos-hqd-phangan.ru/)
-* [Chapman](https://iqos-hqd-phangan.ru/)
-* [Sobranie](https://iqos-hqd-phangan.ru/)
-* [Malboro](https://iqos-hqd-phangan.ru/)
-* [Esse](https://iqos-hqd-phangan.ru/)
+* [Winston](https://hqdthai.ru/sigarety/winston/)
+* [Parliament](https://hqdthai.ru/sigarety/parliament/)
+* [Dunhill](https://hqdthai.ru/sigarety/dunhill/)
+* [Davidoff](https://hqdthai.ru/sigarety/davidoff/)
+* [Mevius](https://hqdthai.ru/sigarety/mevius/)
+* [Kent](https://hqdthai.ru/sigarety/kent/)
+* [Chapman](https://hqdthai.ru/sigarety/chapman/)
+* [Sobranie](https://hqdthai.ru/sigarety/)
+* [Malboro](https://hqdthai.ru/sigarety/marlboro/)
+* [Esse](https://hqdthai.ru/sigarety/esse/)
 
-При заказе от 3000 бат бесплатная доставка в любую точку Пангана за один день с оплатой онлайн, для более мелких заказов такая же доставка 300 бат.   Самовывоз на Пангане 1000 бат на Тонг Сале, доставка русским курьером  на Пангане  2000 бат, в обоих случаях платите после получения,  заказы на самовывоз и доставку оформлять на [https://iqos-hqd-phangan.ru/](https://iqos-hqd-phangan.ru/).
+

@@ -4,6 +4,8 @@ ldjson: yes
 hashtag: sigar-huanin
 ---
 
+Да доставка сигарет с основного склада бкк в Хуахин 1 день и стоит 300 бат при оплате до 3 часов дня. Заказ оформить на сайте [https://hqdthai.ru/sigarety/](https://hqdthai.ru/sigarety/), доступные методы онлайн оплаты [https://thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery). На все средние заказы бесплатная доставка до двери с бкк.
+
 ### Русские и Импортные сигареты вы можете заказать в нашем интернет магазине
 
 В ассортименте:
@@ -14,9 +16,8 @@ hashtag: sigar-huanin
 * [Davidoff](https://hqdthai.ru/sigarety/davidoff/)
 * [Mevius](https://hqdthai.ru/sigarety/mevius/)
 * [Kent](https://hqdthai.ru/sigarety/kent/)
-* [Chapman](https://hqdthai.ru/sigarety/сhapman/)
-* Sobranie
-* [Malboro](https://hqdthai.ru/sigarety/marlboro/) 
+* [Chapman](https://hqdthai.ru/sigarety/chapman/)
+* [Sobranie](https://hqdthai.ru/sigarety/)
+* [Malboro](https://hqdthai.ru/sigarety/marlboro/)
 * [Esse](https://hqdthai.ru/sigarety/esse/)
 
-При заказе от 3000 бат бесплатная доставка за один день с оплатой онлайн, для более мелких заказов такая же доставка 300 бат. Доставка курьером в Хуанин  от 1000 бат, в  платите при получении заказа, заказав в интернет магазине [https://hqdthai.ru/](https://hqdthai.ru/). 
