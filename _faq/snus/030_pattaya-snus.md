@@ -1,5 +1,5 @@
 ---
-question: Могу ли я купить снюс на Паттайи?
+question: Могу ли я купить снюс на Паттайе?
 ldjson: yes 
 hashtag: pattaya-snus
 ---
