@@ -4,16 +4,21 @@ ldjson: yes
 hashtag: pattaya-iqos
 ---
 
-Самовывоз IQOS на Паттайе 1000 бат у рыбного рынка, доставка русским курьером по Паттайе 2000 бат, при оформлении в  [http://hqdthai.ru](http://hqdthai.ru) в обоих случаях опалтить можно наличными при получении.
+Да доставка iqos с основного склада бкк по Паттайе 1 день и стоит 300 бат при оплате до 3 часов дня. Заказ оформить на сайте [https://hqdthai.ru/iqos/](https://hqdthai.ru/iqos/), доступные методы онлайн оплаты [https://thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery). На все средние заказы бесплатная доставка до двери с бкк.  
+ 
+
+Самовывоз iqos в Паттайе +1000 бат у рыбного рынка, доставка русским курьером по Паттайе +2000 бат, при оформлении в  [https://hqd-iqos-pattaya.ru/iqos](https://hqd-iqos-pattaya.ru/iqos) в обоих случаях оплатить можно наличными при получении. На все крупные заказы бесплатный самовывоз с рыбного рынка.
+
 
 ### Да сейчас для заказа на Пангане доступны устройства:
 
 Заказать можно на сайте [HQD THAI - IQOS](https://hqdthai.ru/iqos/)
 
-* Iqos 2.4 по 4000
-* Iqos 3.0 мульти по 6000  бат
-* Iqos duos по 8000 бат
-* Iqos Аналог по 2000 бат
-* Lil Solid по 3000 бат
+* [Iqos 2.4 по 4000](https://hqdthai.ru/iqos/)
+* [Iqos 3.0 мульти по 6000  бат](https://hqdthai.ru/iqos/)
+* [Iqos duos по 8000 бат](https://hqdthai.ru/iqos/)
+* [Iqos Аналог по 2000 бат](https://hqdthai.ru/iqos/)
+* [Lil Solid по 3000 бат](https://hqdthai.ru/iqos/)
+
 
 
