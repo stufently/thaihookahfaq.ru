@@ -15,4 +15,5 @@ hashtag: phuket-snus
 * [XR General 500 бат (крепость 16-20 мг никотина)](https://hqdthai.ru/snyus/)
 * [Ace X Superwhite Cool Mint 500 бат (крепость 16-20 мг никотина)](https://hqdthai.ru/snyus/)
 
- Доставке от 1000 бат надо запросить список того что есть на пхукете [Запросить список](https://t.me/kolesnikov1988).
+
+=> [Запросить список](https://t.me/kolesnikov1988).
