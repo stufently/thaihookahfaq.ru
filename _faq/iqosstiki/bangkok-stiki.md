@@ -13,10 +13,10 @@ hashtag: bangkok-stiki
 
 Заказать можно на сайте [HQD THAI - Стики](https://hqdthai.ru/stiki/iqosstiki/)
 
-* Iqos heets по 200 бат пачка
-* Terea по 300 бат пачка 
-* Creations и Malboro по 250 бат пачка
-* lil solid (Fiit) по 200 бат пачка 
+* [Iqos heets по 200 бат пачка](https://hqdthai.ru/stiki/)
+* [Terea по 300 бат пачка](https://hqdthai.ru/stiki/)
+* [Creations и malboro по 250 бат пачка](https://hqdthai.ru/stiki/)
+* [lil solid (Fiit) по 200 бат пачка](https://hqdthai.ru/stiki/)
 
 
 
