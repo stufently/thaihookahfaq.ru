@@ -5,7 +5,7 @@ hashtag: krabi-esiggarets
 ---
 
 Да доставка одноразок  с основного склада бкк на Краби 1 день и стоит 300 бат при оплате до 3 часов дня. Заказ оформить на сайте [https://hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/), доступные методы онлайн оплаты [https://thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery). На все средние заказы бесплатная доставка до двери с бкк.
-
+  
 
 
 ### Да, в ассортименте:
