@@ -12,6 +12,6 @@ hashtag: hookahphuket
 
 * [Кальян Cube за 2500 бат](https://hqdphuket.ru/kalyan/cube)
 * [Кальян большой за 8000 бат](https://hqdphuket.ru/kalyan/kalyanbolshoy)
-* [Кальян Наносмок за 4000 бат](https://hqdphuket.ru/kalyan/nanosmoke)
+* [Кальян Наносмок за 2000 бат](https://hqdphuket.ru/kalyan/nanosmoke)
 
 Остальные кальяны можете посмотреть на нашем сайте [https://hqdthai.ru/kalyan/kalyany/](https://hqdthai.ru/kalyan/kalyany/) 
