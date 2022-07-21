@@ -1,5 +1,5 @@
 ---
-question: Где купить кальян в Паттае?
+question: Где купить кальян в Паттайе?
 ldjson: yes 
 hashtag: hookahbangkok
 ---
